@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MinesGame</string>
+    <string name="balance">Balance: </string>
+</resources>
