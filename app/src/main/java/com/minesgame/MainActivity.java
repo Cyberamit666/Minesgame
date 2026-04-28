@@ -2,7 +2,6 @@ package com.minesgame;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
-import com.minesgame.R;
 
 public class MainActivity extends AppCompatActivity {
     @Override

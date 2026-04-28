@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-namespace 'com.fixxa.studiox.minesgame'
+namespace 'com.studiox.minesgame'
     compileSdk 34
     defaultConfig {
         applicationId "com.minesgame"
