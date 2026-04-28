@@ -5,7 +5,8 @@
         android:allowBackup="true"
         android:icon="@android:drawable/sym_def_app_icon"
         android:label="MinesGame"
-        android:theme="@android:style/Theme.DeviceDefault"
+        android:theme="@android:style/Theme.DeviceDefault">
+        
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -14,6 +15,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        
     </application>
 
 </manifest>
