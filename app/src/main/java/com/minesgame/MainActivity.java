@@ -14,7 +14,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import java.util.ArrayList;
-
+import com.minesgame.R;
 public class MainActivity extends AppCompatActivity {
 
     private DatabaseHelper db;
